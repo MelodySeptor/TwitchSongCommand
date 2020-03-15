@@ -1,0 +1,19 @@
+{
+  "name": "twitchsongcommand",
+  "version": "1.0.0",
+  "description": "Proyecto creado por Garcec y Melody.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MelodySeptor/TwitchSongCommand.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MelodySeptor/TwitchSongCommand/issues"
+  },
+  "homepage": "https://github.com/MelodySeptor/TwitchSongCommand#readme"
+}
